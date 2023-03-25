@@ -2,7 +2,7 @@
  * BLE2902.h
  *
  *  Created on: Jun 25, 2017
- *      Author: kolban
+ *      Author: rolan
  */
 
 #ifndef COMPONENTS_CPP_UTILS_BLE2902_H_
